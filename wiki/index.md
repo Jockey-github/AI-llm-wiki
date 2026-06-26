@@ -10,6 +10,8 @@
 
 - [work.md](work.md) — 工作职责、所属团队、日常工作内容
 - [projects.md](projects.md) — 当前和历史项目清单
+- [platform-systems.md](platform-systems.md) — 中台 8 系统全景图（定位、干系人、依赖、健康度）
+- [weekly-report-template.md](weekly-report-template.md) — 中台测试周报模版（向 Danny 汇报用）
 
 ## 技术
 
@@ -58,6 +60,7 @@
 | data-consistency-check-architecture.md | cheatsheets | 数据一致性检查架构 |
 | ai-test-generation-patterns.md | prompt-patterns | AI 测试生成 Prompt 模式 |
 | ai-test-report-template.md | workflows | AI 辅助测试报告工作流 |
+| ai-rca-postmortem-workflow.md | workflows | AI 辅助 RCA 复盘工作流（5-Why + 同类风险外推） |
 
 ### raw/assets/（2 个）
 
@@ -68,4 +71,4 @@
 
 ---
 
-*页面总数：14 | 原始素材：12 | 最后更新：2026-06-24*
+*页面总数：16 | 原始素材：13 | 最后更新：2026-06-26*
